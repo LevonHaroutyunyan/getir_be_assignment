@@ -13,7 +13,7 @@
   "author": "Levon Haroutyunyan <levon.haroutyunyan@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/w3cj/express-api-starter.git"
+    "url": "https://github.com/LevonHaroutyunyan/getir_be_assignment"
   },
   "license": "MIT",
   "dependencies": {
